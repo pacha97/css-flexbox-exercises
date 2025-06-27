@@ -1,0 +1,62 @@
+p {
+    font-size: calc(1vw + 1vh);
+    text-align: center;
+    margin: auto;
+}
+.header {
+    display: flex;
+    gap: 5px;
+    background-color: rgb(230, 230, 190);
+    height: 10vh;
+    width: auto;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.left-box {
+    height: 7vh;
+    gap: 40px;
+    margin-left: 20px;
+    justify-content: space-around;
+    display: flex;
+}
+.one {
+    padding: 0 10px 0 10px;
+    background-color: rgb(136, 147, 149);
+}
+.two {
+    padding: 0 10px 0 10px;
+    background-color: rgb(136, 147, 149);
+}
+.three {
+    padding: 0 10px 0 10px;
+    background-color: rgb(136, 147, 149);
+}
+.four {
+    padding: 0 10px 0 10px;
+    background-color: rgb(136, 147, 149);
+}
+.five {
+    padding: 0 10px 0 10px;
+    background-color: rgb(136, 147, 149);
+}
+.six {
+    padding: 0 10px 0 10px;
+    background-color: rgb(136, 147, 149);
+}
+
+.logo {
+    height: 7vh;
+    padding: 0 10px 0 10px;
+    background-color: rgb(136, 147, 149);
+    display: flex;
+    justify-content: center;
+}
+.right-box {
+    height: 7vh;
+    gap: 40px;
+    margin-right: 20px;
+    justify-content: space-around;
+    display: flex;
+}
